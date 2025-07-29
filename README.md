@@ -8,3 +8,7 @@ Install and configure Jenkins
 -> copy public IP -> open Git bash -> connect ssh ec2
 
 -> goto Root user
+
+
+Project Document:
+https://chatgpt.com/share/68885417-d538-8007-b3ec-75e9b3833e9c
